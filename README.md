@@ -35,7 +35,6 @@
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&labelColor=0D1117&style=for-the-badge)&nbsp;
 ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&labelColor=0D1117&style=for-the-badge)&nbsp;
-![Create React App Badge](https://img.shields.io/badge/Create%20React%20App-09D3AC?logo=createreactapp&labelColor=0D1117&style=for-the-badge)&nbsp;
 
 
 
